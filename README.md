@@ -33,3 +33,4 @@ auto-py-to-exe
 Готовый `.exe` появится в папке `output/`
 
 ## Скорее всего, интерфейс окна будет на русском.
+![](https://kmsvsr.ru/wp-content/uploads/2020/06/program.png)
